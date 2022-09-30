@@ -27,7 +27,7 @@ Ahora se puede correr el código y divertirse!
 
 # TypeScript Examples
 <p align="center"> 
-    <a href="https://github.com/Fonsii/typescript-examples/blob/main/README.md">English</a> |
+    <a href="https://github.com/Fonsii/typescripts-examples/blob/main/README.md">English</a> |
     <span>Español</span>
 </p>
 
