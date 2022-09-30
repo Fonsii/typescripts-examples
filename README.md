@@ -1,7 +1,7 @@
 # TypeScript Examples
 <p align="center">
     <span>English</span> |
-    <a href="https://github.com/Fonsii/typescript-examples/blob/main/lang/spanish/README.md">Español</a>
+    <a href="https://github.com/Fonsii/typescripts-examples/blob/main/lang/spanish/README.md">Español</a>
 </p>
 
 This is a series of simples examples in TypeScript
